@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registro>
+	<titulo>Datos de estudiantes</titulo>
+	<estudiante id="1">
+		<nombre>Edward</nombre>
+		<apellido>Espinoza</apellido>
+		<cédula>1314683010</cédula>
+		<semestre>Quinto semestre</semestre>
+		<paralelo>Paralelo "B"</paralelo>
+		<direccion>Manta</direccion>
+		<telefono>0939733694</telefono>
+		<correo>edwardespin12@gmail.com</correo>
+	</estudiante>
+
+	<estudiante id="2">
+		<nombre>Mike</nombre>
+		<apellido>Bello</apellido>
+		<cédula>1316619897</cédula>
+		<semestre>Sexto semestre</semestre>
+		<paralelo>Paralelo "C"</paralelo>
+		<direccion>Manta</direccion>
+		<telefono>0908765412</telefono>
+		<correo>djmikepro22@gmail.com</correo>
+	</estudiante>
+
+	<estudiante id="3">
+		<nombre>Luis</nombre>
+		<apellido>López</apellido>
+		<cédula>1314745835</cédula>
+		<semestre>Quinto semestre</semestre>
+		<paralelo>Paralelo "B"</paralelo>
+		<direccion>Manta</direccion>
+		<telefono>0962046398</telefono>
+		<correo>luislopez1201@hotmail.com</correo>
+	</estudiante>
+
+	<estudiante id="4">
+		<nombre>Michael</nombre>
+		<apellido>Palacios</apellido>
+		<cédula>1316893161</cédula>
+		<semestre>Quinto semestre</semestre>
+		<paralelo>Paralelo "B"</paralelo>
+		<direccion>Manta</direccion>
+		<telefono>0998631357</telefono>
+		<correo>michaelpal201@gmail.com</correo>
+	</estudiante>
+
+	<estudiante id="5">
+		<nombre>Melina</nombre>
+		<apellido>Macias</apellido>
+		<cédula>1316985710</cédula>
+		<semestre>Cuarto semestre</semestre>
+		<paralelo>Paralelo "B"</paralelo>
+		<direccion>Manta</direccion>
+		<telefono>0945098722</telefono>
+		<correo>melmacias44@gmail.com</correo>
+	</estudiante>
+
+	<estudiante id="6">
+		<nombre>Cristhina</nombre>
+		<apellido>Parrales</apellido>
+		<cédula>1317740528</cédula>
+		<semestre>Quinto Semestre</semestre>
+		<paralelo>Paralelo "B"</paralelo>
+		<direccion>Manta</direccion>
+		<telefono>0923600098</telefono>
+		<correo>cristhinaaa2@gmail.com</correo>
+	</estudiante>
+
+	<estudiante id="7">
+		<nombre>Nagely</nombre>
+		<apellido>Chancay</apellido>
+		<cédula>1350176721</cédula>
+		<semestre>Quinto semestre</semestre>
+		<paralelo>Paralelo "B"</paralelo>
+		<direccion>Montecristi</direccion>
+		<telefono>0934069754</telefono>
+		<correo>nagelchan38@hotmail.com</correo>
+	</estudiante>
+
+	<estudiante id="8">
+		<nombre>Luis</nombre>
+		<apellido>Zambrano</apellido>
+		<cédula>1315589984</cédula>
+		<semestre>Quinto semestre</semestre>
+		<paralelo>Paralelo "B"</paralelo>
+		<direccion>Montecristi</direccion>
+		<telefono>0994001208</telefono>
+		<correo>Luiszam20@gmail.com</correo>
+	</estudiante>
+
+	<estudiante id="9">
+		<nombre>Gabriel</nombre>
+		<apellido>Pacheco</apellido>
+		<cédula>1316661030</cédula>
+		<semestre>Quinto semestre</semestre>
+		<paralelo>Paralelo "B"</paralelo>
+		<direccion>Manta</direccion>
+		<telefono>0900761234</telefono>
+		<correo>gabrilp36@gmail.com</correo>
+	</estudiante>
+
+	<estudiante id="10">
+		<nombre>Shirley</nombre>
+		<apellido>Vera</apellido>
+		<cédula>1316892957</cédula>
+		<semestre>Sexto semestre</semestre>
+		<paralelo>Paralelo "B"</paralelo>
+		<direccion>Manta</direccion>
+		<telefono>0932456800</telefono>
+		<correo>shirleyve08@gmail.com</correo>
+	</estudiante>
+</registro>

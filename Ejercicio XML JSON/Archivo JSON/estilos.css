@@ -1,0 +1,24 @@
+.contenedor{
+    background-color: #8bc104;
+}
+
+h1{
+    margin-left: 40%;
+    height: 50px;
+}
+
+h2{
+    height: 20px;
+}
+
+.nom_estudiante{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 46%;
+    height: 50px;
+    border-radius: 10%;
+}
+
+.datos{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #a9a9a9;
+}
